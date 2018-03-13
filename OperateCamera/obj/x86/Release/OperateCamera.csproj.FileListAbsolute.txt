@@ -1,0 +1,8 @@
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\bin\Release\OperateCamera.exe
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\bin\Release\OperateCamera.pdb
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Release\ResolveAssemblyReference.cache
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Release\OperateCamera.Form1.resources
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Release\OperateCamera.Properties.Resources.resources
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Release\OperateCamera.csproj.GenerateResource.Cache
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Release\OperateCamera.exe
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Release\OperateCamera.pdb

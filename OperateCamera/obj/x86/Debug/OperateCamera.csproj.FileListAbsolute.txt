@@ -1,0 +1,22 @@
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\OperateCamera.exe
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\OperateCamera.pdb
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.exe
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Controls.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Imaging.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Video.dll
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\bin\Debug\OperateCamera.exe
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\bin\Debug\OperateCamera.pdb
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Debug\OperateCamera.csproj.GenerateResource.Cache
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Debug\OperateCamera.exe
+E:\qiweb_doc\code\SharpDevelop_Projects\OperateCamera\obj\x86\Debug\OperateCamera.pdb
